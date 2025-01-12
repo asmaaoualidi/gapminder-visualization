@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gapminder Visualization App
 
 ## Description
@@ -31,3 +32,7 @@ This is a Dash web application for visualizing country population data over time
 
 5.Open your browser and navigate to http://localhost:8052 to access the app.
 
+=======
+# gapminder-visualization
+Dash web application for visualizing country population
+>>>>>>> b7f6a4b531c0298b59659346ec64b3bbbf5bbe82
