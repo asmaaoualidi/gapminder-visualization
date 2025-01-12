@@ -1,0 +1,3 @@
+pip install Dash
+pip install pandas
+pip install plotly
