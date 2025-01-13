@@ -16,7 +16,7 @@ This is a Dash web application for visualizing country population data over time
 ## How to Run the App
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gapminder-visualization.git
+   https://github.com/asmaaoualidi/gapminder-visualization.git
 
 2. Navigate to the project directory:
    ```bash
@@ -35,4 +35,4 @@ This is a Dash web application for visualizing country population data over time
 =======
 # gapminder-visualization
 Dash web application for visualizing country population
->>>>>>> b7f6a4b531c0298b59659346ec64b3bbbf5bbe82
+
