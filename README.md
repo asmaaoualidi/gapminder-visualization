@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gapminder Visualization App
 
 ## Description
